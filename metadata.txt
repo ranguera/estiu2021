@@ -1,0 +1,10 @@
+{
+    "tutorial": false,
+    "bpm": 104,
+	"length": 210.0,
+    "difficulty_group": 2,
+	"run_length_1": 26,
+	"run_length_2": 39,
+	"run_length_3": 52,
+	"run_length_4": 65
+}
